@@ -33,6 +33,8 @@ Daftar Website Belajar IT (Bahasa Indonesia) :
        dan kelas berbayar untuk materi dengan studi kasus. Fokus pada web dev, mobile, dan design. 
        Dilengkapi dengan roadmap belajar sehingga mudah untuk belajar dari dasar sesuai alurnya.
        
+    8. 
+       
     8. Progate ( https://progate.com/ ) 
        Berisi banyak materi IT dari dasar mulai dari HTML sampai react terdapat path pengembangan web. 
        Materi disusun dengan tulisan dan pembelajarannya menarik. Kelas dapat diakses dengan gratis. 
